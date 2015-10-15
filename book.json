@@ -8,7 +8,8 @@
     ],
     "pluginsConfig": {
         "disqus":{
-        "shortName": "<4plus-ma>"
-    }
+            "shortName": "4plus-ma"
+         }
+    }     
 }
 
