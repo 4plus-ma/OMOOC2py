@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Week0](week0.md)
 * [Week1](week1.md)
-   * 课堂笔记
+   * [课堂笔记](ke_tang_bi_ji.md)
 * [教学反转](0MOOC/README.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
