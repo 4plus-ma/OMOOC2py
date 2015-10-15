@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Week0](week0.md)
+* [Week1](week1.md)
 * [教学反转](0MOOC/README.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
@@ -10,5 +11,4 @@
 * [素材 (draft)](draft/README.md)
    * [教程该怎么写](draft/how2tutorial.md)
 * [有关](ABOUT.md)
-* [Week1](week1.md)
 
